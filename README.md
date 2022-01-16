@@ -1,4 +1,4 @@
-Copyright (C) 2021 Nusantara Project
+Copyright (C) 2021 Cherish OS
 
 # Device Tree for Xiaomi Redmi Note 10 Pro (sweet)
 
