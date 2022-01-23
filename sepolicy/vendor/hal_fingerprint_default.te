@@ -9,3 +9,6 @@ allow hal_fingerprint_default hal_fingerprint_hwservice_xiaomi:hwservice_manager
 allow hal_fingerprint_default vendor_data_file:dir rw_dir_perms;
 allow hal_fingerprint_default vendor_data_file:file { rw_file_perms create rename unlink };
 allow hal_fingerprint_default vendor_hal_perf_default:binder call;
+
+# Allow fp HAL to sent hint
+hal_client_domain(hal_fingerprint_default, hal_power)
