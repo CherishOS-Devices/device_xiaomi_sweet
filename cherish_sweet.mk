@@ -31,3 +31,4 @@ WITH_GMS := true
 PRODUCT_SYSTEM_DEFAULT_PROPERTIES += \
     ro.cherish.maintainer=Niranjan&Madhav
 TARGET_SUPPORTS_QUICK_TAP := true
+TARGET_USES_BLUR := true
