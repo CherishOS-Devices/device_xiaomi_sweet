@@ -501,3 +501,6 @@ PRODUCT_PACKAGES += \
     libgui-shim
 
 include vendor/xiaomi/sweet/sweet-vendor.mk
+
+# Inherit from ANX Camera
+$(call inherit-product, vendor/ANXCamera/anx-vendor.mk)
