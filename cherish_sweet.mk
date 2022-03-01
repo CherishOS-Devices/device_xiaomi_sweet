@@ -32,3 +32,6 @@ PRODUCT_SYSTEM_DEFAULT_PROPERTIES += \
     ro.cherish.maintainer=Niranjan&Madhav
 TARGET_SUPPORTS_QUICK_TAP := true
 TARGET_USES_BLUR := true
+
+# Additional Pixel stuffs
+TARGET_INCLUDE_CARRIER_SETTINGS := true
