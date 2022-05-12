@@ -3,9 +3,6 @@ ro.secure=1
 ro.debuggable=0
 ro.control_privapp_permissions=log
 
-# Gboard
-ro.com.google.ime.kb_pad_port_b=1
-
 # Graphics
 debug.sdm.support_writeback=0
 
