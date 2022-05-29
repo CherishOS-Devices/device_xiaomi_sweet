@@ -25,13 +25,9 @@ LOCAL_OVERRIDES_PACKAGES := \
     obdm_stub \
     OdadPrebuilt \
     OemDmTrigger \
-    OPScreenRecord \
     Ornament \
-    PixelLiveWallpaperPrebuilt \
-    Photos \
     PlayAutoInstallConfig \
     PrebuiltGmail \
-    RecorderPrebuilt \
     SafetyHubPrebuilt \
     SCONE \
     ScribePrebuilt \
